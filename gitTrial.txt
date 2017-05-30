@@ -1,0 +1,5 @@
+This is a trial file.
+This is meant to learn git.
+This will upload the file on git which is a central repository.
+then make changes to it and see on git.
+
